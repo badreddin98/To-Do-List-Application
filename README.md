@@ -1,0 +1,1 @@
+A simple command-line To-Do List application written in Python that allows users to add, view, mark as complete, and delete tasks. The application is designed to help users keep track of their daily tasks and manage them efficiently.
